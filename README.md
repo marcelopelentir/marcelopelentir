@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, eu sou o Marcelo 👋
 
-<!--
-**marcelopelentir/marcelopelentir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End em formação
 
-Here are some ideas to get you started:
+Atualmente focado em:
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo:
+Conquistar minha primeira oportunidade como desenvolvedor e evoluir constantemente na área de tecnologia.
+
+📚 Em evolução contínua, criando projetos práticos e aprimorando minhas habilidades todos os dias.
+
+---
+
+🚀 Em breve novos projetos por aqui!
