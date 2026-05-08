@@ -1,6 +1,6 @@
 Olá, eu sou o Marcelo 👋
 
-💻 Desenvolvedor Front-End em formação
+💻 Desenvolvedor em formação
 
 Atualmente focado em:
 - HTML
